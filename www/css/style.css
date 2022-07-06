@@ -1,0 +1,29 @@
+/**/
+
+/* set padding for iOS status bar */
+.ua-ios .ui-page {
+  padding-top: 63px !important;
+}
+
+/* .ua-ios .ui-header {
+  top: 20px;
+} */
+
+/* ボタンの位置 */
+.bbtu {
+  float: right;
+  background-color:black;
+}
+/* 非表示にする */
+.bt {
+ visibility: hidden;
+}
+
+/* .ui-btn  {
+ visibility: hidden;
+} */
+
+.bbbb{
+  background-color: red;
+}
+
